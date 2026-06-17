@@ -38,7 +38,7 @@ export const skills = {
     { name: "Tailwind CSS", icon: <SiTailwindcss color="#38bdf8" size={24} /> },
   ],
 
-  ddatabases: [
+  databases: [
     { name: "PostgreSQL", icon: <SiPostgresql color="#336791" size={24} /> },
     { name: "MongoDB", icon: <SiMongodb color="#47A248" size={24} /> },
     { name: "Valkey", icon: <SiRedis color="#DC382D" size={24} /> },
